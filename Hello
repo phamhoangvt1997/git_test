@@ -1,0 +1,17 @@
+[33mcommit 4960e21ea1fc7a2e4ba1d27e24cddf57bc6de996[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: phamhoangvt1997 <phamhoangvt1997@gmail.com>
+Date:   Wed Mar 15 23:58:50 2023 +0800
+
+    Edit README.md and hello_world.txt
+
+[33mcommit c03b6ad6fbeb69e05e6d9a94175ef45d4a5dcdf6[m
+Author: phamhoangvt1997 <phamhoangvt1997@gmail.com>
+Date:   Wed Mar 15 23:51:37 2023 +0800
+
+    Add hello_world.txt
+
+[33mcommit ed570bab7a06f74177c784a8329ff2745843b7f6[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: phamhoangvt1997 <127746330+phamhoangvt1997@users.noreply.github.com>
+Date:   Wed Mar 15 23:34:28 2023 +0800
+
+    Initial commit

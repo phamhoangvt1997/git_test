@@ -1,0 +1,104 @@
+.red {
+    background-color: red;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+.green {
+    background-color: green;
+    font-weight: lighter;
+    color: white;
+}
+.orange{
+    background-color: orange;
+}
+
+.odd {
+   background-color: pink; 
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#two{
+    font-size: 36px;
+    color: blue;
+}
+
+#four{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
+
+.clickme, .noclickme{
+font-size: 28px;
+font-family: helvetica, times new roman, sans-serif;
+}
+.clickme{
+    background-color: black;
+    color:white;
+}
+.noclickme{
+    background: yellow;
+}
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200px;
+    height: 400px;
+}
+
+.container{
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+.big{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.para1{
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+.para2{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.confirm {
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+    width: 70px;
+    height: 30px;
+    padding: 0px;
+}
+
+.cancel{
+        background-color: white;
+        font-weight: bolder;
+        width: 70px;
+        height: 30px;
+        padding: 0px;
+    
+}
+
+.thin{
+    font-size: 30px;
+}
+
+.smallerchild{
+    font-size: 20px;
+    font-weight: bolder;
+}
