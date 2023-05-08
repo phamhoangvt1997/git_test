@@ -55,13 +55,15 @@ body{
 }
     
 #btnawe{
-    background-color: #3882F6;
+    background-color: #ee73cf;
     color:white;
     padding: 7px 25px;
-    border-radius: 8px;
+    border-radius: 30px;
     font-weight: bold;
     text-decoration: none;
     border: none;
+    margin-top: 20px;
+    padding: 20px;
 }
 
 img{
@@ -113,4 +115,88 @@ a {
     width:100px;
     border: 2px solid #3882F6;
     border-radius: 10px;
+}
+
+.image-box img{
+    width: 100px;
+    height: 100px;
+}
+
+.quote-section{
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.quote-container{
+    background-color: rgba(0, 160, 252, 0.747);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    border:2px solid rgb(255, 255, 255);
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 60%;
+    border-radius: 10px;
+}
+
+.quote-text{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.quote-owner{
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    align-self: flex-end;
+}
+
+.sign-up-section{
+    color: white;
+    background-color: #395c8d;
+    padding: 20px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:fit-content;
+    border-radius: 20px;
+    align-self: center;
+}
+
+.sign-up-box{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.sign-up-button{
+    background: rgb(57, 185, 224);
+    color: white;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 2px solid rgb(57, 185, 224);
+    border-radius: 10px;
+    height: 40px;
+    flex-grow:0;
+    margin-left: 50px;
+}
+
+.sign-up-button:hover {
+    background-color: pink;
+    color: black;
+    transition-duration: 0.4s;
+}
+
+.footer {
+    background-color: rgb(160, 159, 159);
+    margin-top: 50px;
+    display: flex; 
+    justify-content: center;
+    color: white;
+    font-weight: 900;
 }
